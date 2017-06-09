@@ -10,5 +10,5 @@ var toHex=function(numb){
 	let LastSet=(numb-firstSet-secSet);
 	console.log("#"+firstSet+" "+secSet+" "+lastSet);
 }
-console.log(document.body.style);
+console.log(document.body.style.backgroundColor);
 //toHex()
